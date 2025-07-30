@@ -1,4 +1,4 @@
-apimServiceName: prod-apim-cicd
+apimServiceName: azure-apim-kt
 namedValues: 
 loggers:
 diagnostics:
